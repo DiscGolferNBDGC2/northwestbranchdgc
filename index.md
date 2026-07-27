@@ -3,6 +3,6 @@
 Welcome to the official course page!
 More information coming soon.
 
-![Course Layout](course-layout.jpg)
+![Course layout](course-layout.jpg)
 
 
